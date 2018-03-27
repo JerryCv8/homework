@@ -1,0 +1,25 @@
+body{
+	color:linen;
+	font-family: sans-serif;
+}
+	h1{
+	font-size: 100px;
+}
+	a{
+	color: #000000;
+	text-decoration:underline;
+}
+	a:hover{
+	color: #000000;
+	text-decoration: none;
+}
+	h2 {
+	font-size: 30px;
+}
+	p{
+	font-size: 20px;
+}
+</style>
+</head>
+
+
